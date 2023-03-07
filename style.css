@@ -1,0 +1,27 @@
+.liverpool{
+    color:#000000;
+    font-weight: 1000;
+    font-style: italic;
+    font-size: 125%;
+    font-family: fantasy;
+}
+.liverpoolimage{
+    background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-Oy7Jl2PYVr4xWvuB0GiB6ybMuK8FdcLnDwuuDuv7oDyYS__U);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: center;
+    position: relative;
+}
+.united{
+    color: red;
+}
+
+.externo{
+    size: 75%;
+    color: red;
+    font-size: 125%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdidTvjgPdvdjwtelmSx8kkV6mhHETmS18aQKb7f6vqEgIYKrf);
+}
